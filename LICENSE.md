@@ -7,3 +7,4 @@ nueva licencia MIT
 
 
 merge?
+edito desde fuera jeje
